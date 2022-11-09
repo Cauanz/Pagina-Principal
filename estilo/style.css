@@ -126,6 +126,7 @@ section#section2 > h1 {
 div#imagem-github {
 	padding: 8px;
 	height: 50%;
+	background-position: center center;
 	background-attachment: fixed;
 	background-image: url(../imagens/github1.png);
 }
