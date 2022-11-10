@@ -1,4 +1,6 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 :root {
 	--cor0: #F7AB05;
 	--cor1: #08D5FF;
@@ -9,7 +11,6 @@
  
 	--font-padrao: Arial, Verdana, Helvetica, sans-serif;
 	--font-destaque: 'Bebas Neue', cursive;
-	--font-android: 'Android', cursive;
  
  }
 
