@@ -156,6 +156,7 @@ div#divbotao > button > a {
 div#divbotao > button > a:hover {
 	color: #ced2d8;
 	text-decoration: none;
+	transform: translate(-3px, -3px);
 }
 
 div#divbotao > button > a:active {
@@ -163,14 +164,19 @@ div#divbotao > button > a:active {
 	text-decoration: underline;
 }
 
+
 /* =FIM SECTION2== */
 
 /* =INICIO SECTION3= */
 
-/*div#tablediv {
+#section3 {
+	text-align: center;
+}
+/*
+div#tablediv {
 	margin: auto;
 	width: 100px;
-}*/
+}
 
 tr {
 	border: 1px solid black;
@@ -182,6 +188,27 @@ td {
 	padding: 5px;
 	border: 1px solid black;
 	border-collapse: collapse;
+}*/
+
+div#dbotao {
+	width: auto;
+	margin: auto;
+}
+
+#linkbotao {
+	background-color: #0787E0;
+	padding: 20px;
+	text-decoration: none;
+	color: #1c2b3f;
+	font-weight: bold;
+	margin: auto;
+	box-sizing: border-box;
+}
+
+#linkbotao:hover {
+	border: 2px solid #1c2b3f75;
+	transition: 0.2s;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.466);
 }
 
 /* =FIM SECTION3= */
